@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidTestingExample</string>
+    <string name="message_success_signup">Sign up successful!</string>
+    <string name="hint_email">Email</string>
+    <string name="error_email_not_valid">This email is not valid</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_login">Login</string>
+    <string name="txt_title_robolectric">Robolectric</string>
+</resources>
